@@ -20,7 +20,7 @@
 <div>
   <h3>Redes sociais</h3>
   <span>
-    <a class="E-mail" href="dario.bastos.dev@gmail.com">
+    <a class="E-mail" href="mailto:dario.bastos.dev@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a class="linkedin" href="https://www.linkedin.com/in/dario-bastos/">
