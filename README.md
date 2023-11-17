@@ -31,4 +31,4 @@
 
 <br>
 
-![Snake animation](https://github.com/dario-bastos-dev)
+![Snake animation](https://github.com/dario-bastos-dev/dario-bastos-dev/)
