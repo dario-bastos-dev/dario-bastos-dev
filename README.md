@@ -1,8 +1,11 @@
 # Desenvolvedor Front-end 💻
 
 <div>
-  <h2>Especialidades:<br>
-  HTML5 | CSS3 | JavaScript</h2>
+  <h2>Especialidades:<br> <br>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" />
+  </h2>
   
 </div>
 
