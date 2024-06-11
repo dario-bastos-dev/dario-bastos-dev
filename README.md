@@ -1,4 +1,4 @@
-# Desenvolvedor Front-end 💻
+# Desenvolvedor Full-stack Javascript 💻
 
 <div>
   <h2>Especialidades:<br><br>
