@@ -1,4 +1,4 @@
-# Desenvolvedor Full-stack Javascript 💻
+# Desenvolvedor Typescript 💻
 
 <div>
   <h2>Especialidades:<br>
