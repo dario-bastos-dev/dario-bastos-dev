@@ -1,4 +1,4 @@
-# Desenvolvedor Typescript 💻
+# Desenvolvedor Web 💻
 
 <div>
   <h2>Especialidades:<br>
