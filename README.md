@@ -1,4 +1,4 @@
-# Desenvolvedor Web 💻
+# Desenvolvedor 💻
 
 <div>
   <h2>Especialidades:<br>
