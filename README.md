@@ -1,4 +1,6 @@
-# Desenvolvedor 💻
+# Desenvolvedor Full-stack · IA e Automações 💻
+
+Desenvolvedor Full-stack com mais de 3 anos de experiência. Hoje crio agentes de IA e automações com n8n e Dify integrados ao CRM de clientes, além de aplicações web com React, Node.js e TypeScript.
 
 <div>
   <h2>Especialidades:<br>
@@ -11,6 +13,16 @@
           
   </h2>
   
+</div>
+
+<div>
+<h2>IA e Automações:<br>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Dify-1C64F2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/APIs_de_LLM-412991?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Docker_Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</h2>
 </div>
 
 <br>
